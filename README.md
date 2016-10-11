@@ -66,3 +66,5 @@ VÉGPONTOK
 OLDALVÁZLATOK
 
 ADATMODELL
+
+Szerkesztette: Viczián Lilla
