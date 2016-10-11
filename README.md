@@ -29,7 +29,7 @@ SZEREPKÖRÖK
 - Felhasználó: A vendég szerepkörén túl a saját hirdetéseinek kezelésére (új, módosít, törlés) képes.
 		
 HASZNÁLATI ESETEK
-![Alt text](/bead1_images/HASZNALATIESETEK.png?raw=true "HASZNALATIESETEK.png")
+![Alt text](/bead1_images/HASZNALATI ESETEK.png?raw=true "HASZNALATIESETEK.png")
 
 FOLYAMATOK MEGHATÁROZÁSA
 - felhasználó
@@ -65,6 +65,7 @@ VÉGPONTOK
 - POST /ads/create: új hirdetés felvitele, adatok küldése
 
 OLDALVÁZLATOK
+
 ![Alt text](/bead1_images/OLDALVAZLATOK_1.jpg?raw=true "OLDALVAZLATOK_1.jpg")
 ![Alt text](/bead1_images/OLDALVAZLATOK_2.jpg?raw=true "OLDALVAZLATOK_2.jpg")
 ![Alt text](/bead1_images/OLDALVAZLATOK_3.jpg?raw=true "OLDALVAZLATOK_3.jpg")
@@ -74,6 +75,7 @@ OLDALVÁZLATOK
 ![Alt text](/bead1_images/OLDALVAZLATOK_7.jpg?raw=true "OLDALVAZLATOK_7.jpg")
 
 ADATMODELL
+
 ![Alt text](/bead1_images/ADATMODELL.png?raw=true "ADATMODELL.png")
 
 Szerkesztette: Viczián Lilla
