@@ -29,6 +29,7 @@ SZEREPKÖRÖK
 - Felhasználó: A vendég szerepkörén túl a saját hirdetéseinek kezelésére (új, módosít, törlés) képes.
 		
 HASZNÁLATI ESETEK
+![Alt text](/resources/uml.png?raw=true "HASZNALATIESETEK.png")
 
 FOLYAMATOK MEGHATÁROZÁSA
 - felhasználó
@@ -66,5 +67,6 @@ VÉGPONTOK
 OLDALVÁZLATOK
 
 ADATMODELL
+![Alt text](/resources/uml.png?raw=true "ADATMODELL.png")
 
 Szerkesztette: Viczián Lilla
