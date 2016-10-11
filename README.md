@@ -33,11 +33,15 @@ HASZNÁLATI ESETEK
 
 FOLYAMATOK MEGHATÁROZÁSA
 - felhasználó
-	- Új hirdetés felvételének folyamata
-	- Bejelentkezés folyamata
+	- Új hirdetés felvételének folyamata:
+	![Alt text](/bead1_images/FOLYAMAT_uj_hirdetes.png?raw=true "FOLYAMAT_uj_hirdetes.png")
+	- Bejelentkezés folyamata:
+	![Alt text](/bead1_images/FOLYAMAT_bejelentkezes.png?raw=true "FOLYAMAT_bejelentkezes.png")
 - vendég
-	- Keresés egy autóra
-	- Regisztráció
+	- Keresés egy autóra:
+	![Alt text](/bead1_images/FOLYAMAT_kereses.png?raw=true "FOLYAMAT_kereses.png")
+	- Regisztráció:
+	![Alt text](/bead1_images/FOLYAMAT_regisztracio.png?raw=true "FOLYAMAT_regisztracio.png")
 		
 OLDALTÉRKÉP
 - Publikus:
