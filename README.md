@@ -29,15 +29,19 @@ SZEREPKÖRÖK
 - Felhasználó: A vendég szerepkörén túl a saját hirdetéseinek kezelésére (új, módosít, törlés) képes.
 		
 HASZNÁLATI ESETEK
-![Alt text](/bead1_images/HASZNALATIESETEK.png?raw=true "HASZNALATIESETEK.png")
+![Alt text](/bead1_images/HASZNALATI ESETEK.png?raw=true "HASZNALATIESETEK.png")
 
 FOLYAMATOK MEGHATÁROZÁSA
 - felhasználó
-	- Új hirdetés felvételének folyamata
-	- Bejelentkezés folyamata
+	- Új hirdetés felvételének folyamata:
+	![Alt text](/bead1_images/FOLYAMAT_uj_hirdetes.png?raw=true "FOLYAMAT_uj_hirdetes.png")
+	- Bejelentkezés folyamata:
+	![Alt text](/bead1_images/FOLYAMAT_bejelentkezes.png?raw=true "FOLYAMAT_bejelentkezes.png")
 - vendég
-	- Keresés egy autóra
-	- Regisztráció
+	- Keresés egy autóra:
+	![Alt text](/bead1_images/FOLYAMAT_kereses.png?raw=true "FOLYAMAT_kereses.png")
+	- Regisztráció:
+	![Alt text](/bead1_images/FOLYAMAT_regisztracio.png?raw=true "FOLYAMAT_regisztracio.png")
 		
 OLDALTÉRKÉP
 - Publikus:
@@ -65,6 +69,7 @@ VÉGPONTOK
 - POST /ads/create: új hirdetés felvitele, adatok küldése
 
 OLDALVÁZLATOK
+
 ![Alt text](/bead1_images/OLDALVAZLATOK_1.jpg?raw=true "OLDALVAZLATOK_1.jpg")
 ![Alt text](/bead1_images/OLDALVAZLATOK_2.jpg?raw=true "OLDALVAZLATOK_2.jpg")
 ![Alt text](/bead1_images/OLDALVAZLATOK_3.jpg?raw=true "OLDALVAZLATOK_3.jpg")
@@ -74,6 +79,7 @@ OLDALVÁZLATOK
 ![Alt text](/bead1_images/OLDALVAZLATOK_7.jpg?raw=true "OLDALVAZLATOK_7.jpg")
 
 ADATMODELL
+
 ![Alt text](/bead1_images/ADATMODELL.png?raw=true "ADATMODELL.png")
 
 Szerkesztette: Viczián Lilla
